@@ -1,5 +1,16 @@
-*SOBRE MIM*
+*HI, I'M LUIZ CARLOS*
 
-Universitário cursando ADS atualmente situado na 3° fase do curso. Conhecimento geral em html e CSS, python, node.js, JavaScript, SQL SERVER e API rest, porém estou a procura de um estágio e disposto a aprender o que for necessário para prestar o serviço. Tenho algumas experiências com ferramentas como Excel e Power BI. Experiências em organização e planejamento de negócio com Canvas e MVP.
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 
 *Luiz Carlos Francisco Junior*
