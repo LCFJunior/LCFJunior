@@ -1,6 +1,6 @@
 *HI, I'M JUNIOR 👏*
 
-Student in systems analysis at [Cesusc](https://cesusc.edu.br)
+Student in systems analysis at [Cesusc](https://cesusc.edu.br) 🎓
 
 *about me*
 ```js
