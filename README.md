@@ -1,6 +1,5 @@
 *HI, I'M LUIZ CARLOS 👏*
-```
-{
+```json
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -12,7 +11,6 @@ const thai = {
                         mentor: "EducaTRANSforma"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
 }
 ```
 *Luiz Carlos Francisco Junior*
