@@ -1,6 +1,6 @@
 
                                                                                                                                           
- *HI, I'M JUNIOR! 👏* ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ ## *HI, I'M JUNIOR! 👏* ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 
 *Student in systems analysis at [Cesusc](https://cesusc.edu.br)*
@@ -18,3 +18,4 @@ const JUNIOR = {
 *Principal project [FullStack](https://lcfjunior.github.io/FULL-STACK/FRONTEND/frontend/index.html)*
 
 *🤝 Group work can always resolve needs! :)*
+##
