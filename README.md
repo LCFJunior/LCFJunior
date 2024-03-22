@@ -1,6 +1,6 @@
 
                                                                                                                                           
- *HI, I'M JUNIOR! 👏* ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[linkedin](https://www.linkedin.com/in/luiz-carlos-francisco-junior-a81062274/)
+ *HI, I'M JUNIOR! 👏* ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[linkedin](https://www.linkedin.com/in/luiz-carlos-francisco-junior-a81062274/)
 
 
 *Student in systems analysis at [Cesusc](https://cesusc.edu.br)*
