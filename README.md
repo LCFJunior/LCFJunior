@@ -1,8 +1,8 @@
-*HI, I'M JUNIOR 👏*
+*HI, I'M JUNIOR! 👏*
 
 *Student in systems analysis at [Cesusc](https://cesusc.edu.br) 🎓*
 
-*about me*
+*💡 about me...*
 ```js
 const JUNIOR = {
   pronouns: "he" | "his",
