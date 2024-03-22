@@ -1,4 +1,4 @@
-*HI, I'M LUIZ CARLOS*
+*HI, I'M LUIZ CARLOS 👏*
 ```
 {
 const thai = {
