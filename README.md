@@ -8,7 +8,7 @@
 *💡 ABOUT ME...*
 ```py
 const JUNIOR = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Javascript, SQL Server, Python, HTML, CSS],
   tools: [Node, Express, NPM],
 
