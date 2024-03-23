@@ -1,7 +1,8 @@
 ## *SQL Server 🪑* 
 
-ㅤAo decorrer do curso e dos meus desenvolvimentos de projetos, o banco de dados que mais se encaixou a minha metodologia de programação foi o *SQL SERVER*, tendo encaixado perfeitamente com a programação BACKEND em *JAVASCRIPT*. Por meio do SQLSERVER modelos modelar bancos extensos e administrar por meio de tabelas relacionadas ou não, facilitando a organização e o funcionamento.
+ㅤDuring the course and development of my project, the database that best suited my programming methodology was *SQL SERVER*, having fitted perfectly into *BACKEND* programming in *JAVASCRIPT*. Using *SQLSERVER* models, you can model extensive databases and manage them through related or unrelated tables, facilitating organization and operation.
 ##
+*EXAMPLE...*
 ```SQL
 CREATE TABLE usuario (
     id_usuario INT IDENTITY(1,1) PRIMARY KEY,
