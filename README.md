@@ -15,7 +15,7 @@ const JUNIOR = {
  challenge: "Enter the programming market and make a difference"
 }
 ```
-*Principal project [FullStack](https://lcfjunior.github.io/FULL-STACK/FRONTEND/frontend/index.html)*
+*My [LINKEDIN]([(https://www.linkedin.com/in/luiz-carlos-francisco-junior-a81062274/)])*
 
 *🤝 Group work can always resolve needs! :)*
 ##
