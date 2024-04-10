@@ -15,7 +15,7 @@ const JUNIOR = {
  challenge: "Enter the programming market and make a difference"
 }
 ```
-*My [LINKEDIN]([(https://www.linkedin.com/in/luiz-carlos-francisco-junior-a81062274/)])*
+*My [LINKEDIN]([https://www.linkedin.com/in/luiz-carlos-francisco-junior-a81062274/])*
 
 *🤝 Group work can always resolve needs! :)*
 ##
