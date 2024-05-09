@@ -1,4 +1,4 @@
-
+q
                                                                                                                                           
  ## *HI, I'M JUNIOR! 👋* ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
@@ -10,7 +10,7 @@
 const JUNIOR = {
   pronouns: "he" | "him",
   code: [Javascript, SQL Server, Python, HTML, CSS],
-  tools: [Node, Express, NPM, REACT],
+  tools: [Node, Express, NPM, REACT js/native],
 
  challenge: "Enter the programming market and make a difference"
 }
