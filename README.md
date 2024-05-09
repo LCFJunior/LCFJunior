@@ -6,7 +6,7 @@
 *Student in systems analysis at [Cesusc](https://cesusc.edu.br)*
 
 *💡 ABOUT ME...*
-```py
+```kotlin
 const JUNIOR = {
   pronouns: "he" | "him",
   code: [Javascript, SQL Server, Python, HTML, CSS],
