@@ -9,8 +9,8 @@
 ```kotlin
 const JUNIOR = {
   pronouns: "he" | "him",
-  code: [Javascript, SQL Server, Python, HTML, CSS],
-  tools: [Node, Express, NPM, REACT js/native],
+  code: [Javascript, SQL Server, Python, HTML, CSS, MongoDB],
+  tools: [Node, Express, REACT js/native],
 
  challenge: "Enter the programming market and make a difference"
 }
