@@ -18,4 +18,6 @@ const JUNIOR = {
 *My [LINKEDIN](https://www.linkedin.com/in/luiz-carlos-francisco-junior-a81062274/)*
 
 *🤝 Group work can always resolve needs! :)*
+
+*main project in progress [FRONTEND](https://github.com/LCFJunior/APP-BPP-frontend) and [BACKEND](https://github.com/LCFJunior/APP-BPP-backend)*
 ##
