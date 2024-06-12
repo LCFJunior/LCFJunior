@@ -10,7 +10,7 @@
 const JUNIOR = {
   pronouns: "he" | "him",
   code: [Javascript, SQL Server, Python, HTML, CSS, MongoDB],
-  tools: [Node, Express, REACT js/native],
+  tools: [Node, Express, REACT js/native, Expo],
 
  challenge: "Enter the programming market and make a difference"
 }
