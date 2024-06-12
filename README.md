@@ -12,7 +12,7 @@ const JUNIOR = {
   code: [Javascript, SQL Server, Python, HTML, CSS, MongoDB],
   tools: [Node, Express, REACT js/native, Expo],
 
- challenge: "Enter the programming market and make a difference"
+ challenge: ("Enter the programming market and make a difference")
 }
 ```
 *My [LINKEDIN](https://www.linkedin.com/in/luiz-carlos-francisco-junior-a81062274/)*
