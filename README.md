@@ -1,8 +1,6 @@
 
                                                                                                                                           
- ## *HI, I'M JUNIOR! 👋* ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
-
+ # *HI, I'M JUNIOR! 👋* ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 *Student in systems analysis at [Cesusc](https://cesusc.edu.br)*
 
 *💡 ABOUT ME...*
@@ -22,5 +20,7 @@ export DEFAULT function JUNIOR() {
 
 *🤝 Group work can always resolve needs! :)*
 
-*Main project in progress [BPPfrontend](https://github.com/llucaasbarros/boraprapraia/tree/AppFRONTEND) on branch **AppFRONTEND** and [BPPbackend](https://github.com/llucaasbarros/boraprapraia/tree/AppBACKEND) on branch **AppBACKEND***
+## Main project in progress ⭐
+- [BPPfrontend](https://github.com/llucaasbarros/boraprapraia/tree/AppFRONTEND) on branch **AppFRONTEND**
+- [BPPbackend](https://github.com/llucaasbarros/boraprapraia/tree/AppBACKEND) on branch **AppBACKEND***
 ##
