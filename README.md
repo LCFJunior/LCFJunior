@@ -4,7 +4,7 @@
 *Student in systems analysis at [Cesusc](https://cesusc.edu.br)*
 
 *💡 ABOUT ME...*
-```js
+```py
 export DEFAULT function JUNIOR() {
   const PERFIL = {
     pronouns: "he" | "him",
