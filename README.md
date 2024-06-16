@@ -19,5 +19,5 @@ const JUNIOR = {
 
 *🤝 Group work can always resolve needs! :)*
 
-*Main project in progress [BoraPraPraia](https://github.com/llucaasbarros/boraprapraia/tree/App) on branch APP*
+*Main project in progress [BoraPraPraia](https://github.com/llucaasbarros/boraprapraia/tree/App) on branch AppFrontend*
 ##
