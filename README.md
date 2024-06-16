@@ -22,5 +22,5 @@ export DEFAULT function JUNIOR() {
 
 ## Main project in progress ⭐
 - [BPPfrontend](https://github.com/llucaasbarros/boraprapraia/tree/AppFRONTEND) on branch **AppFRONTEND**
-- [BPPbackend](https://github.com/llucaasbarros/boraprapraia/tree/AppBACKEND) on branch **AppBACKEND***
+- [BPPbackend](https://github.com/llucaasbarros/boraprapraia/tree/AppBACKEND) on branch **AppBACKEND**
 ##
