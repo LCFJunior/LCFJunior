@@ -2,8 +2,8 @@
 ![Banner](https://github.com/user-attachments/assets/8d9292e6-0348-41c2-a5ce-ca6354d60457)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝐇𝐢, 𝐈'𝐦 𝐉𝐮𝐧𝐢𝐨𝐫! <img align="right" width="5%" src="https://github.com/user-attachments/assets/f24af948-36d1-4f86-9e11-25f5f710f8f9"/>
-*Backend developer/programmer*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝐇𝐢, 𝐈'𝐦 𝐉𝐮𝐧𝐢𝐨𝐫!
+*Backend developer/programmer* <img align="right" width="5%" src="https://github.com/user-attachments/assets/f24af948-36d1-4f86-9e11-25f5f710f8f9"/>
 <br /> ㅤㅤㅤ
 
 *💡 ABOUT ME...*
