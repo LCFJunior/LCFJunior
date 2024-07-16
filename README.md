@@ -6,6 +6,7 @@
 *Backend developer/programmer* <img align="right" width="5%" src="https://github.com/user-attachments/assets/f24af948-36d1-4f86-9e11-25f5f710f8f9"/>
 <br /> ㅤㅤㅤ
 
+<!--About Me-->
 *💡 ABOUT ME...*
 ```py
 export DEFAULT function JUNIOR() {
@@ -21,8 +22,13 @@ export DEFAULT function JUNIOR() {
 ```
 *🤝 Group work can always resolve needs! :)*
 
+<!--Projects-->
 ## Main project in progress ⭐
 - [BPPfrontend](https://github.com/llucaasbarros/boraprapraia/tree/AppFRONTEND) on branch **AppFRONTEND**
 - [BPPbackend](https://github.com/llucaasbarros/boraprapraia/tree/AppBACKEND) on branch **AppBACKEND**
 ##
 
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
