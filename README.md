@@ -23,7 +23,7 @@ export DEFAULT function JUNIOR() {
 *🤝 Group work can always resolve needs! :)*
 
 <!--Projects-->
-## Main project in progress <img align="left" width="3%" src="https://github.com/user-attachments/assets/471cfa3e-146b-4770-b2b1-04307db94a03"/>
+## Main project in progress <img align="left" width="5%" src="https://github.com/user-attachments/assets/471cfa3e-146b-4770-b2b1-04307db94a03"/>
 - [BPPfrontend](https://github.com/llucaasbarros/boraprapraia/tree/AppFRONTEND) on branch **AppFRONTEND** 
 - [BPPbackend](https://github.com/llucaasbarros/boraprapraia/tree/AppBACKEND) on branch **AppBACKEND** 
 
