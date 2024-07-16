@@ -25,6 +25,7 @@ export DEFAULT function JUNIOR() {
 }
 ```
 *🤝 Group work can always resolve needs! :)*
+<br /> ㅤ
 
 <!--Projects-->
 # Main project in progress <img align="left" width="5%" src="https://github.com/user-attachments/assets/471cfa3e-146b-4770-b2b1-04307db94a03"/>
