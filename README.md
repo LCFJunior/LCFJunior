@@ -5,7 +5,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝐇𝐢, 𝐈'𝐦 𝐉𝐮𝐧𝐢𝐨𝐫!
-*Backend developer/programmer* <div align="left"> 
+*FullStack developer/programmer* <div align="left"> 
 <a href="https://www.instagram.com/junior._lc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/luiz-carlos-francisco-junior-a81062274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
