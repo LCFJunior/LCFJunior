@@ -29,7 +29,7 @@ export DEFAULT function JUNIOR() {
 <br /> ㅤ
 
 <!--Projects-->
-# Main projects <img align="left" width="5%" src="https://github.com/user-attachments/assets/471cfa3e-146b-4770-b2b1-04307db94a03"/>
+# </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Main projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucaasbarros&repo=boraprapraia)](https://github.com/llucaasbarros/boraprapraia)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LCFJunior&repo=Automacao_Python_Excel)](https://github.com/llucaasbarros/boraprapraia)
 
