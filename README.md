@@ -25,13 +25,13 @@ export DEFAULT function JUNIOR() {
   }
 }
 ```
-*🤝 Group work can always resolve needs! :)*
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Group work can always resolve needs!</b> :)</em>
 <br /> ㅤ
 
 <!--Projects-->
 # </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Main projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucaasbarros&repo=boraprapraia)](https://github.com/llucaasbarros/boraprapraia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LCFJunior&repo=Automacao_Python_Excel)](https://github.com/llucaasbarros/boraprapraia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucaasbarros&repo=boraprapraia&_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/llucaasbarros/boraprapraia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LCFJunior&repo=Automacao_Python_Excel&_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/llucaasbarros/boraprapraia)
 
 
 
