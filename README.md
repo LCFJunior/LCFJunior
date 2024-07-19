@@ -27,7 +27,7 @@ export DEFAULT function JUNIOR() {
   const PERFIL = {
     pronouns: "he" | "him",
     code: [Javascript, Python, HTML, CSS],
-    tools: [Node, Express, REACT js & native, Expo, Pandas, OpenPyXl],
+    tools: [Node, Express, REACT Js&Native, Expo, Pandas, OpenPyXl],
     database: [SQL Server, MongoDB]
 
    challenge: ("Enter the programming market and make a difference");
