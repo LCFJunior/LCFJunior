@@ -41,7 +41,9 @@ export DEFAULT function JUNIOR() {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCFJunior&show_icons=true&theme=tokyonight)
 #
 <em><b><p align="center"> just a gym/technology lover... </p></b></em>
-
+<p align="center">
+ <img src="assets/workout-gym.gif" width="120"/>
+</p>
   
 <!--Footer--> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
