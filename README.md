@@ -54,7 +54,7 @@ export DEFAULT function JUNIOR() {
 
 ![image](https://github.com/user-attachments/assets/a5eebe12-c8f7-48dd-87e9-3cd0a4441ffe)
 
-<img src="assets/Spinner@1x-1.0s-200px-200px.gif" width="25"/> 𝐂𝐨𝐮𝐫𝐬𝐞 𝐢𝐧 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬 - Analysis and systems development
+<img src="assets/Spinner@1x-1.0s-200px-200px.gif" width="25"/> 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬 - Analysis and systems development
 
 <img src="https://github.com/user-attachments/assets/537d7ff6-b5b9-49f2-81cd-d4a6dbeea339" width="785" height="200" alt="Descrição da imagem">
 
