@@ -41,7 +41,7 @@ export DEFAULT function JUNIOR() {
 <!--Projects-->
 # </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝐌𝐚𝐢𝐧 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucaasbarros&repo=boraprapraia&_color=0d1116&theme=tokyonight)](https://github.com/llucaasbarros/boraprapraia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LCFJunior&repo=Automacao_Python_Excel&_color=0d1116&theme=tokyonight)](https://github.com/llucaasbarros/boraprapraia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LCFJunior&repo=Automacao_Python_Excel&_color=0d1116&theme=tokyonight)](https://github.com/LCFJunior/Automacao_Python_Excel)
 
 <!--Stats-->
 # </a><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"> 𝐒𝐭𝐚𝐭𝐬
