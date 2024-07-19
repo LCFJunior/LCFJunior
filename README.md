@@ -47,6 +47,12 @@ export DEFAULT function JUNIOR() {
 # </a><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"> 𝐒𝐭𝐚𝐭𝐬
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCFJunior&layout=donut&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCFJunior&show_icons=true&theme=tokyonight)
+
+<!--Certificates-->
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium%20Skin%20Tone.png" width="35"/> 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬
+
+![image](https://github.com/user-attachments/assets/23d7f452-cb06-4933-a1f2-549d671a8477)
+
 #
 <em><b><p align="center"> just a gym/technology lover... </p></b></em>
 <p align="center">
