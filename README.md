@@ -39,11 +39,11 @@ export DEFAULT function JUNIOR() {
 # </a><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"> 𝐒𝐭𝐚𝐭𝐬
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCFJunior&layout=donut&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCFJunior&show_icons=true&theme=tokyonight)
-
-
-
-
+#
+<em><b><p align="center"> just a gym/technology lover... </p></b></em>
 
   
 <!--Footer--> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+
+
