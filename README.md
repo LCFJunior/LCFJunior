@@ -22,7 +22,8 @@ export DEFAULT function JUNIOR() {
     tools: [Node, Express, REACT js/native, Expo, Pandas],
     database: [SQL Server, MongoDB]
 
-   challenge: ("Enter the programming market and make a difference")
+   challenge: ("Enter the programming market and make a difference");
+   obs: ("More about me in my Linkedin!");
   }
 }
 ```
