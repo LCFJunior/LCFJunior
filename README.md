@@ -13,7 +13,7 @@
 <br /> ㅤㅤㅤ
 
 <!--About Me-->
-*💡 ABOUT ME...*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="45"/><em><b> ABOUT ME... </b></em>
 ```py
 export DEFAULT function JUNIOR() {
   const PERFIL = {
