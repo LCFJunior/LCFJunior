@@ -27,7 +27,7 @@ export DEFAULT function JUNIOR() {
   }
 }
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Group work can always resolve needs!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45"> <em><b>Group work can always resolve needs!</b></em>
 <br /> ㅤ
 
 <!--Projects-->
