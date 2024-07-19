@@ -31,7 +31,7 @@ export DEFAULT function JUNIOR() {
     database: [SQL Server, MongoDB]
 
    challenge: ("Enter the programming market and make a difference");
-   obs: ("More about me in my Linkedin!");
+   ps: ("More about me in my Linkedin!");
   }
 }
 ```
