@@ -4,8 +4,8 @@
 ![Banner](https://github.com/user-attachments/assets/8d9292e6-0348-41c2-a5ce-ca6354d60457)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="assets/HiImJunior1-ezgif.com-gif-maker (1).gif" width="160"/><img src="https://user-images.githubusercontent.com/74038190/213910345-87a0070d-e6be-4864-b0a1-7e2133e3dae2.png" width="200" align="right"/>
-*FullStack developer/programmer* <div align="left">  <em><b><p align="right"> me --> </p></b></em>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="assets/HiImJunior1-ezgif.com-gif-maker (1).gif" width="160"/><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" align="right"/>
+*FullStack developer/programmer* <div align="left">
 <a href="https://www.instagram.com/junior._lc/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
