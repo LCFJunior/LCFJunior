@@ -4,7 +4,7 @@
 ![Banner](https://github.com/user-attachments/assets/8d9292e6-0348-41c2-a5ce-ca6354d60457)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="assets/HiImJunior1-ezgif.com-gif-maker (1).gif" width="160"/><img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3NjQxMDAsIm5iZiI6MTcyMzc2MzgwMCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE1VDIzMTY0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhNTY0N2EzYzhjOTlkZGJiMzFkOGUzMzdiYjlhMDliNDRhYjJkYTZkNWFmMDM5ODUyZTZiYjM2ZDNmNDJhZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Cv1ilZ__aUUVbZpNwu9Y9t97hHZVR-KJsI9YVDYzqDA" width="180" align="right"/>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="assets/HiImJunior1-ezgif.com-gif-maker (1).gif" width="160"/><img src="assets/ok-club-penguin.gif" width="220" align="right"/>
 *FullStack developer/programmer* <div align="left">
 <a href="https://www.instagram.com/junior._lc/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
