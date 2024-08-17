@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 <!--Banner-->
-<img width=1000 height=210 justify-content=center src="assets/image.png">
+<img width=1000 height=170 src="https://github.com/user-attachments/assets/bb7fdbcc-4ac6-4885-8b4f-d1dff6b6b3ed"/>
+
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="assets/HiImJunior1-ezgif.com-gif-maker (1).gif" width="160"/><img src="assets/skeleton-dance.gif" width="220" align="right"/>
