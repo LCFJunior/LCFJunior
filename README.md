@@ -4,7 +4,7 @@
 ![Banner](https://github.com/user-attachments/assets/8d9292e6-0348-41c2-a5ce-ca6354d60457)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="assets/HiImJunior1-ezgif.com-gif-maker (1).gif" width="160"/><img src="assets/pokemon-gengar.gif" width="220" align="right"/>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="assets/HiImJunior1-ezgif.com-gif-maker (1).gif" width="160"/><img src="assets/skeleton-dance.gif" width="220" align="right"/>
 *FullStack developer/programmer* <div align="left">
 <a href="https://www.instagram.com/junior._lc/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
