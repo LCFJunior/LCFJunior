@@ -8,6 +8,8 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="assets/HiImJunior1-ezgif.com-gif-maker (1).gif" width="160"/><img src="assets/skeleton-dance.gif" width="220" align="right"/>
 *FullStack developer/programmer* <div align="left">
+💬 <em><b> SOCIAL MIDIAS </b></em>
+
 <a href="https://www.instagram.com/junior._lc/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
