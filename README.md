@@ -9,7 +9,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="assets/HiImJunior1-ezgif.com-gif-maker (1).gif" width="160"/><img src="assets/skeleton-dance.gif" width="220" align="right"/>
-*FullStack developer/programmer* <div align="left">
+*Junior backend developer* <div align="left">
 💬 <em><b> SOCIAL MEDIAS </b></em>
 
 <a href="https://www.instagram.com/junior._lc/" target="_blank">
@@ -32,7 +32,7 @@
 export DEFAULT function JUNIOR() {
   const PERFIL = {
     pronouns: "he" | "him",
-    code: [Javascript, Python, HTML, CSS],
+    code: [Javascript, Typescript, Python, HTML, CSS],
     tools: [Node, Express, REACT Js & Native, Expo, Pandas, OpenPyXl],
     database: [SQL Server, MongoDB]
 
