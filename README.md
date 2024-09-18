@@ -32,7 +32,7 @@
 export DEFAULT function JUNIOR() {
   const PERFIL = {
     pronouns: "he" | "him",
-    code: [Javascript, Typescript, Python, HTML, CSS],
+    code: [Javascript, Typescript, Python, R, HTML, CSS],
     tools: [Node, Express, REACT Js & Native, Expo, Pandas, OpenPyXl],
     database: [SQL Server, MongoDB]
 
