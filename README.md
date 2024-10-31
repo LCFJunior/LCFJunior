@@ -3,8 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 <!--Banner-->
-<img width=1000 height=170 src="https://github.com/user-attachments/assets/bb7fdbcc-4ac6-4885-8b4f-d1dff6b6b3ed"/>
-
+<img width=1000 height=300 src="assets/Welcome.gif.gif">
 
 
 <!--Header Name-->
