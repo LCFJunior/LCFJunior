@@ -85,7 +85,7 @@ export DEFAULT function JUNIOR() {
 
 ![image](https://github.com/user-attachments/assets/a5eebe12-c8f7-48dd-87e9-3cd0a4441ffe)
 
-<img src="assets/loadingGIT.gif" width="25" height="15"/> 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬 - Analysis and systems development
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="15" height="15" /> 𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙚𝙙 𝙜𝙧𝙖𝙙𝙪𝙖𝙩𝙞𝙤𝙣 - Analysis and systems development
 
 <img src="https://github.com/user-attachments/assets/537d7ff6-b5b9-49f2-81cd-d4a6dbeea339" width="785" height="200" alt="Descrição da imagem">
 
